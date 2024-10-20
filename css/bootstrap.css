@@ -1321,7 +1321,7 @@ body {
   font-family: Corbel, Verdana, Arial, sans-serif;
   font-size: 14px;
   line-height: 1.4;
-  color: #999;
+  color: #e9e6e677;
   background-color: #000;
 }
 
@@ -3179,7 +3179,7 @@ legend {
   margin-bottom: 19px;
   font-size: 21px;
   line-height: inherit;
-  color: #333333;
+  color: #d0cccc;
   border: 0;
   border-bottom: 1px solid #e5e5e5;
 }
@@ -3254,7 +3254,7 @@ output {
   color: #ebebeb;
   background-color: #444;
   background-image: none;
-  border: 1px solid #cccccc;
+  border: 1px solid #888;
   border-radius: 4px;
   -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
   box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
@@ -6531,7 +6531,7 @@ a.thumbnail.active {
 
 .modal-content {
   position: relative;
-  background-color: #444;
+  background-color: #333;
   -webkit-background-clip: padding-box;
   background-clip: padding-box;
   border: 1px solid #999999;
