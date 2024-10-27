@@ -5661,7 +5661,7 @@ fieldset[disabled] .navbar-default .btn-link:focus {
 .navbar-inverse .navbar-nav>.open>a:hover,
 .navbar-inverse .navbar-nav>.open>a:focus {
   color: #ffffff;
-  background-color: #080808;
+  background-color: 444444;
 }
 
 @media (max-width: 991px) {
@@ -5742,7 +5742,7 @@ fieldset[disabled] .navbar-inverse .btn-link:focus {
 
 .breadcrumb {
   padding: 7px 14px;
-  margin-bottom: 9px;
+  margin-bottom: 17px;
   list-style: none;
   background-color: #222;
   border-radius: 4px;
