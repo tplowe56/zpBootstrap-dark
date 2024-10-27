@@ -4341,7 +4341,7 @@ tbody.collapse.in {
   font-size: 14px;
   text-align: left;
   list-style: none;
-  background-color: #444;
+  background-color: #dcdcdc;
   -webkit-background-clip: padding-box;
   background-clip: padding-box;
   border: 1px solid #cccccc;
@@ -5661,7 +5661,7 @@ fieldset[disabled] .navbar-default .btn-link:focus {
 .navbar-inverse .navbar-nav>.open>a:hover,
 .navbar-inverse .navbar-nav>.open>a:focus {
   color: #ffffff;
-  background-color: 444444;
+  background-color: #000000;
 }
 
 @media (max-width: 991px) {
