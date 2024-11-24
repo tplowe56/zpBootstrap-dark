@@ -1,5 +1,5 @@
 <?php
-// force UTF-8 Ø
+// force UTF-8 ï¿½
 if (!defined('WEBPATH')) die();
 ?>
 <!DOCTYPE html>
